@@ -1,0 +1,9 @@
+/Users/candra/candra/g2academy/Repo/Spring/xlkafka/src/main/java/co/g2academy/xlkafka/controller/KafkaController.java
+/Users/candra/candra/g2academy/Repo/Spring/xlkafka/src/main/java/co/g2academy/xlkafka/service/KonsumenService.java
+/Users/candra/candra/g2academy/Repo/Spring/xlkafka/src/main/java/co/g2academy/xlkafka/repository/KonsumenRepository.java
+/Users/candra/candra/g2academy/Repo/Spring/xlkafka/src/main/java/co/g2academy/xlkafka/service/impl/KonsumenServiceImpl.java
+/Users/candra/candra/g2academy/Repo/Spring/xlkafka/src/main/java/co/g2academy/xlkafka/model/KonsumenModel.java
+/Users/candra/candra/g2academy/Repo/Spring/xlkafka/src/main/java/co/g2academy/xlkafka/service/Consumer.java
+/Users/candra/candra/g2academy/Repo/Spring/xlkafka/src/main/java/co/g2academy/xlkafka/service/Producer.java
+/Users/candra/candra/g2academy/Repo/Spring/xlkafka/src/main/java/co/g2academy/xlkafka/request/KonsumenRequest.java
+/Users/candra/candra/g2academy/Repo/Spring/xlkafka/src/main/java/co/g2academy/xlkafka/XlkafkaApplication.java

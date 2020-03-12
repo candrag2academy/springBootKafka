@@ -1,0 +1,11 @@
+co/g2academy/xlkafka/model/KonsumenModel$KonsumenModelBuilder.class
+co/g2academy/xlkafka/XlkafkaApplication.class
+co/g2academy/xlkafka/controller/KafkaController.class
+co/g2academy/xlkafka/request/KonsumenRequest.class
+co/g2academy/xlkafka/service/Consumer.class
+co/g2academy/xlkafka/service/impl/KonsumenServiceImpl.class
+co/g2academy/xlkafka/service/KonsumenService.class
+co/g2academy/xlkafka/request/KonsumenRequest$KonsumenRequestBuilder.class
+co/g2academy/xlkafka/model/KonsumenModel.class
+co/g2academy/xlkafka/service/Producer.class
+co/g2academy/xlkafka/repository/KonsumenRepository.class
